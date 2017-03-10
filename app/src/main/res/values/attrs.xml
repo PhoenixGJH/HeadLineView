@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="HeadLineView">
+        <attr name="hl_interval" format="integer" />
+        <attr name="hl_anim_duration" format="integer" />
+        <attr name="hl_anim_in" format="reference" />
+        <attr name="hl_anim_out" format="reference" />
+    </declare-styleable>
+</resources>
